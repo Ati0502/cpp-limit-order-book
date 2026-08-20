@@ -2,7 +2,7 @@
 
 Welcome to the C++ Limit Order Book & Matching Engine learning guide. This project is designed to help you understand the core concepts of electronic trading, exchange matching engines, and basic algorithmic trading through a simple, clean, and highly readable C++ implementation.
 
-This guide is structured as a 2-day curriculum.
+This guide is structured as a  learning source who are new to Limit Order booking
 
 ---
 
